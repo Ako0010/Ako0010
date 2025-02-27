@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="270" src="https://s8.ezgif.com/tmp/ezgif-84a45fd05cb6d3.gif"  />
+  <img height="270" src="Ako.gif"  />
 </div>
 
 ###

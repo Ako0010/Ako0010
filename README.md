@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="270" src="Ako.gif"  />
+  <img height="270" src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Akif+Ismayilov;I+Am+Learning+Full+Stack+developer;%40Ako0010)](https://git.io/typing-svg)"  />
 </div>
 
 ###

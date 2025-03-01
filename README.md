@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">Hello, My name is Akif and my other name is Ako. I am learning Full Stack Developer</h4>
+<h4 align="right">Hello, My name is Akif and my other name is Ako. I am learning Full Stack Developer</h4>
 
 ###
 

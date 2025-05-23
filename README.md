@@ -36,7 +36,7 @@
 </div>
 
 <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" height="60" alt="cplusplusplusplus logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" height="70" alt="cplusplusplusplus logo"  />
 </div>
 
 ###

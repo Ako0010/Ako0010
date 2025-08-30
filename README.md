@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70" alt="cplusplus logo"  />
-    <img width="12" />
+    <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="70" alt="csharp logo"  />
 </div>
 
@@ -44,5 +44,6 @@
 <img src="github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
 
 

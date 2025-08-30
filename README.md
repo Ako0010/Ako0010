@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70" alt="cplusplus logo"  />
     <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="70" alt="csharp logo"  />
+      <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="70" alt="git logo"  />
 </div>
 
 ###
@@ -44,6 +46,7 @@
 <img src="github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 

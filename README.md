@@ -37,6 +37,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="70" alt="csharp logo"  />
       <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="70" alt="git logo"  />
+        <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" height="70" alt="sql logo"  />
 </div>
 
 ###
@@ -46,6 +48,7 @@
 <img src="github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 

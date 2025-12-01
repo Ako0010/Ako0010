@@ -35,7 +35,7 @@
         <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" height="70" alt="sql logo"  />
           <img width="12" />
-  <img src="https://icon2.cleanpng.com/20180810/ekz/11448a7a96ee808a3cdbaf0df9570976.webp" height="70" alt="js logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png" height="70" alt="js logo"  />
 </div>
 
 ###
@@ -45,6 +45,7 @@
 <img src="github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 

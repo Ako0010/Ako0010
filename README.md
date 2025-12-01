@@ -12,7 +12,8 @@
 <div align="left">
   <a href="https://dev.to/ako0010" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
+  </a>
+
 </div>
 
 ###
@@ -33,6 +34,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="70" alt="git logo"  />
         <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" height="70" alt="sql logo"  />
+          <img width="12" />
+  <img src="https://icon2.cleanpng.com/20180810/ekz/11448a7a96ee808a3cdbaf0df9570976.webp" height="70" alt="js logo"  />
 </div>
 
 ###
@@ -42,6 +45,7 @@
 <img src="github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 
